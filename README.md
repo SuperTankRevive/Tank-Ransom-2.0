@@ -13,3 +13,9 @@ RUS:
 
 # Демонстрация / Demonstration
 ![image](https://user-images.githubusercontent.com/99078375/208423907-f24aebde-3ccc-4030-bb7c-8c67d61ffff9.png)
+
+# Source Code / Исходный код
+EN:
+Source code of ransomware will released, if i see 10 likes.
+RUS:
+Исходный код шифровальщика будет выпущен, если я увижу 10 лайков над последним видосом =)
